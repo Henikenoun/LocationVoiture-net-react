@@ -1,0 +1,28 @@
+.payment-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .payment-container .btn {
+    background-color: #28a745;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .payment-container .btn:hover {
+    background-color: #218838;
+  }
+  
+  .success {
+    color: green;
+    margin-top: 1rem;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 1rem;
+  }
+  

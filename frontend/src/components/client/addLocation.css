@@ -1,0 +1,75 @@
+.add-location-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-location-container h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .car-details {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .car-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .car-details h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: #444;
+  }
+  
+  .add-location-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .add-location-form label {
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .add-location-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+  }
+  
+  .add-location-form .btn {
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .add-location-form .btn:hover {
+    background: #0056b3;
+  }
+  .btn-disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    color: #666;
+  }
+  .error-message {
+    color: #d9534f; /* Rouge pour les messages d'erreur */
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  

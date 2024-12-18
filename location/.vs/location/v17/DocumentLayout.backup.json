@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\location\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\controllers\\agencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:controllers\\agencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\controllers\\paiementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:controllers\\paiementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|c:\\users\\user\\source\\repos\\location\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB1E8B-4F23-42FE-A06E-E819FA955AEC}|location.csproj|solutionrelative:controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaiementController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\PaiementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaiementController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\PaiementController.cs",
+              "RelativeToolTip": "Controllers\\PaiementController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:50:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:46:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:45:54.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Controllers\\LocationController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAGwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:35:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgenceController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\AgenceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgenceController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\AgenceController.cs",
+              "RelativeToolTip": "Controllers\\AgenceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:30:06.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoitureController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\VoitureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoitureController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\location\\Controllers\\VoitureController.cs",
+              "RelativeToolTip": "Controllers\\VoitureController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:53:59.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

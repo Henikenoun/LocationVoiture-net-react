@@ -1,0 +1,17 @@
+/* Ajuster la barre de navigation */
+.navbar {
+    width: 100%; /* S'assure que la navbar couvre toute la largeur */
+    padding: 0 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-link {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  
+  .hero-space {
+    height: 50px; /* Ajoute un espacement de 50px entre la navbar et le contenu suivant */
+    background-color: #f8f9fa; /* Couleur de fond pour délimiter visuellement */
+  }
+  
